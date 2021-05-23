@@ -1,9 +1,4 @@
 {
-	"nombre":"Local 1",
-	"latitud":"40.28791085216385",
-	"longitud":"-3.806275215316363",
-	"coordenadas":[40.28791085216385, -3.806275215316363],
-	"direccion":"Paseo de la haya",
-	"telefono":"112",
-	"url":"https://www.google.es"
+	"title":"Local 1",
+	"description":"40.28791085216385"
 }
