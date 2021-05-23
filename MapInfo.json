@@ -2,39 +2,59 @@
   "locations": [
     {
       "id": 0,
-      "name": "PEPE",
-      "latitude": 40.71,
-      "longitude": -74
+      "name": "Honest Greens Castellana",
+      "latitude": 40.44971458763355,
+      "longitude": -3.6919909315685646,
+	  "url": "https://honestgreens.com",
+	  "telefono": 931227664
     },
-    {
+	{
       "id": 1,
-      "name": "Barcelona",
-      "latitude": 41.38,
-      "longitude": 2.17
+      "name": "Honest Greens Hortaleza",
+      "latitude": 40.42483309281332,
+      "longitude": -3.697622346910911,
+	  "url": "https://honestgreens.com",
+	  "telefono": 931227664
     },
-    {
+	{
       "id": 2,
-      "name": "Tokyo",
-      "latitude": 35.68,
-      "longitude": 139.76
+      "name": "Honest Greens Corte Inglés",
+      "latitude": 40.44681528824177,
+      "longitude": -3.6944932972112543,
+	  "url": "https://honestgreens.com",
+	  "telefono": 931227664
     },
-    {
+	{
       "id": 3,
-      "name": "Atlanta",
-      "latitude": 33.74,
-      "longitude": -84.38
+      "name": "Honest Greens Velázquez",
+      "latitude": 40.43771042091296,
+      "longitude": -3.6833740720509276,
+	  "url": "https://honestgreens.com",
+	  "telefono": 931227664
     },
-    {
+	{
       "id": 4,
-      "name": "Paris",
-      "latitude": 48.85,
-      "longitude": 2.35
-    },
-    {
-      "id": 5,
-      "name": "Hong Kong",
-      "latitude": 22.31,
-      "longitude": 114.16
-    }
+	  "name": "Honest Greens Serrano",
+	  "latitude": 40.428633649712026,
+	  "longitude": -3.6875762027340393,
+	  "url": "https://honestgreens.com",
+	  "telefono": 931227664
+	},
+	{
+	  "id": 5,
+	  "name": "Naked And Sated Serrano",
+	  "latitude": 40.43545186960078,
+	  "longitude": -3.6861546027337666,
+	  "url": "http://nakedandsated.com",
+	  "telefono": 914413102
+	},
+	{
+	  "id": 6,
+	  "name": "Naked And Sated Estébanez",
+	  "latitude": 40.46358247256531,
+	  "longitude": -3.6905885297206487,
+	  "url": "http://nakedandsated.com",
+	  "telefono": 914675763
+	}
   ]
 }
