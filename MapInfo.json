@@ -2,15 +2,13 @@
 // https://raw.githubusercontent.com/zodiacodam/food/main/MapInfo.json
 
 {
-  "locations": [
-    
+  "locations": [    
       0,
       "Honest Greens Castellana",
       40.44971458763355,
       -3.6919909315685646,
       "https://honestgreens.com",
       931227664,
-      "Paseo de la Castellana 89"
-    
+      "Paseo de la Castellana 89"    
   ]
 }
