@@ -1,67 +1,68 @@
 {
     "type": "MultiPoint",
     "coordinates": [
-        [
-      "id": 0,
-      "nombre": "Honest Greens Castellana",
-      "latitud": 40.44971458763355,
-      "longitud": -3.6919909315685646,
-      "url": "https://honestgreens.com",
-      "telefono": 931227664,
-      "direccion": "Paseo de la Castellana 89"
+    [
+      0,
+      "Honest Greens Castellana",
+      40.44971458763355,
+      -3.6919909315685646,
+      "https://honestgreens.com",
+      931227664,
+      "Paseo de la Castellana 89"
     ],
     [
-      "id": 1,
-      "nombre": "Honest Greens Hortaleza",
-      "latitud": 40.42483309281332,
-      "longitud": -3.697622346910911,
-      "url": "https://honestgreens.com",
-      "telefono": 931227664,
-      "direccion": "Calle de Hortaleza 100"
+      1,
+      "Honest Greens Hortaleza",
+      40.42483309281332,
+      -3.697622346910911,
+      "https://honestgreens.com",
+      931227664,
+      "Calle de Hortaleza 100"
     ],
     [
-      "id": 2,
-      "nombre": "Honest Greens Corte Inglés",
-      "latitud": 40.44681528824177,
-      "longitud": -3.6944932972112543,
-      "url": "https://honestgreens.com",
-      "telefono": 931227664,
-      "direccion": "Calle Raimundo Fernández Villaverde 79"
+      2,
+      "Honest Greens Corte Inglés",
+      40.44681528824177,
+      -3.6944932972112543,
+      "https://honestgreens.com",
+      931227664,
+      "Calle Raimundo Fernández Villaverde 79"
     ],
     [
-      "id": 3,
-      "nombre": "Honest Greens Velázquez",
-      "latitud": 40.43771042091296,
-      "longitud": -3.6833740720509276,
-      "url": "https://honestgreens.com",
-      "telefono": 931227664,
-      "direccion": "Calle Velázquez 123"
+      3,
+      "Honest Greens Velázquez",
+      40.43771042091296,
+      -3.6833740720509276,
+      "https://honestgreens.com",
+      931227664,
+      "Calle Velázquez 123"
     ],
     [
-      "id": 4,
-      "nombre": "Honest Greens Serrano",
-      "latitud": 40.428633649712026,
-      "longitud": -3.6875762027340393,
-      "url": "https://honestgreens.com",
-      "telefono": 931227664,
-      "direccion": "Calle de Serrano, 41"
+      4,
+      "Honest Greens Serrano",
+      40.428633649712026,
+      -3.6875762027340393,
+      "https://honestgreens.com",
+      931227664,
+      "Calle de Serrano, 41"
     ],
     [
-      "id": 5,
-      "nombre": "Naked And Sated Serrano",
-      "latitud": 40.43545186960078,
-      "longitud": -3.6861546027337666,
-      "url": "http://nakedandsated.com",
-      "telefono": 914413102,
-      "direccion": "Calle de Serrano, 110."
+      5,
+      "Naked And Sated Serrano",
+      40.43545186960078,
+      -3.6861546027337666,
+      "http://nakedandsated.com",
+      914413102,
+      "Calle de Serrano, 110."
     ],
     [
-      "id": 6,
-      "nombre": "Naked And Sated Estébanez",
-      "latitud": 40.46358247256531,
-      "longitud": -3.6905885297206487,
-      "url": "http://nakedandsated.com",
-      "telefono": 914675763,
-      "direccion": "Calle Estébanez Calderón, 3-5"
+      6,
+      "Naked And Sated Estébanez",
+      40.46358247256531,
+      -3.6905885297206487,
+      "http://nakedandsated.com",
+      914675763,
+      "Calle Estébanez Calderón, 3-5"
     ]
+  ]
 }
