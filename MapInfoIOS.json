@@ -6,12 +6,12 @@
       "name": "Honest Greens Castellana",
       "latitude": 40.44971458763355,
       "longitude": -3.6919909315685646,
-      "url": https://honestgreens.com",
+      "url": "https://honestgreens.com",
       "telefono": 931227664,
       "direccion": "Paseo de la Castellana 89"
     ],
     [
-      id": 1
+      "id": 1
       "name": "Honest Greens Hortaleza",
       "latitude": 40.42483309281332,
       "longitude": -3.697622346910911,
@@ -20,7 +20,7 @@
       "direccion": "Calle de Hortaleza 100"
     ],
     [
-     id": 2,
+     "id": 2,
       "name": "Honest Greens Corte Inglés",
       "latitude": 40.44681528824177,
       "longitude": -3.6944932972112543,
@@ -29,7 +29,7 @@
       "direccion": "Calle Raimundo Fernández Villaverde 79"
     ],
     [
-      id": 3,
+      "id": 3,
       "name": "Honest Greens Velázquez",
       "latitude": 40.43771042091296,
       "longitude": -3.6833740720509276,
