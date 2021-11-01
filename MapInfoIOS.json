@@ -1,6 +1,5 @@
 {
-    "type": "MultiPoint",
-    "coordinates": [
+    "locations":[
    {
      "id": 0,
       "name": "Honest Greens Castellana",
