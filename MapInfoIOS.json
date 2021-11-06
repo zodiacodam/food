@@ -76,7 +76,7 @@
       "id": 8,
       "name": "Zest Recoletos",
       "latitude": 40.42201018286636, 
-      "longitude": -3.6902099732950613
+      "longitude": -3.6902099732950613,
       "url": "https://www.zestmadrid.com",
       "telefono": 914318367,
       "direccion": "Calle de Recoletos 10"
@@ -85,7 +85,7 @@
       "id":9,
       "name": "Zest Almagro",
       "latitude": 40.428441027902494, 
-      "longitude": -3.6946307288064646
+      "longitude": -3.6946307288064646,
       "url": "https://www.zestmadrid.com",
       "telefono": 912852372,
       "direccion": "Calle Fernando el Santo 4"
