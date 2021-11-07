@@ -6,7 +6,7 @@
       "latitude": 40.44971458763355,
       "longitude": -3.6919909315685646,
       "url": "https://honestgreens.com",
-      "telefono": 931227664,
+      "telefono": "931227664",
       "direccion": "Paseo de la Castellana 89"
     },
     {
@@ -15,7 +15,7 @@
       "latitude": 40.42483309281332,
       "longitude": -3.697622346910911,
       "url": "https://honestgreens.com",
-      "telefono": 931227664,
+      "telefono": "931227664",
       "direccion": "Calle de Hortaleza 100"
     },
     {
@@ -24,7 +24,7 @@
       "latitude": 40.44681528824177,
       "longitude": -3.6944932972112543,
       "url": "https://honestgreens.com",
-      "telefono": 931227664,
+      "telefono": "931227664",
       "direccion": "Calle Raimundo Fernández Villaverde 79"
     },
     {
@@ -33,7 +33,7 @@
       "latitude": 40.43771042091296,
       "longitude": -3.6833740720509276,
       "url": "https://honestgreens.com",
-      "telefono": 931227664,
+      "telefono": "931227664",
       "direccion": "Calle Velázquez 123"
     },
     {
@@ -42,7 +42,7 @@
       "latitude": 40.428633649712026,
       "longitude": -3.6875762027340393,
       "url": "https://honestgreens.com",
-      "telefono": 931227664,
+      "telefono": "931227664",
       "direccion": "Calle de Serrano, 41"
     },
     {
@@ -51,7 +51,7 @@
       "latitude": 40.43545186960078,
       "longitude": -3.6861546027337666,
       "url": "http://nakedandsated.com",
-      "telefono": 914413102,
+      "telefono": "914413102",
       "direccion": "Calle de Serrano, 110."
     },
     {
@@ -60,7 +60,7 @@
       "latitude": 40.46358247256531,
       "longitude": -3.6905885297206487,
       "url": "http://nakedandsated.com",
-      "telefono": 914675763,
+      "telefono": "914675763",
       "direccion": "Calle Estébanez Calderón, 3-5"
     },
     {
@@ -69,7 +69,7 @@
       "latitude": 40.4247894270694, 
       "longitude": -3.700473089197043,
       "url": "https://www.zenithcaffe.es/es_es/",
-      "telefono": 912124299,
+      "telefono": "912124299",
       "direccion": "Calle Valverde 28"
     },
     {
@@ -78,7 +78,7 @@
       "latitude": 40.42201018286636, 
       "longitude": -3.6902099732950613,
       "url": "https://www.zestmadrid.com",
-      "telefono": 914318367,
+      "telefono": "914318367",
       "direccion": "Calle de Recoletos 10"
     },
     {
@@ -87,7 +87,7 @@
       "latitude": 40.428441027902494, 
       "longitude": -3.6946307288064646,
       "url": "https://www.zestmadrid.com",
-      "telefono": 912852372,
+      "telefono": "912852372",
       "direccion": "Calle Fernando el Santo 4"
     }
   ]
